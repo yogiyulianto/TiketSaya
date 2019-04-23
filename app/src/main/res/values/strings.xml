@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Tiket Saya</string>
     <string name="splash_text">Wisata Jadi Lebih Asik!</string>
+    <string name="txt_getstarted_activity_discover">Discover</string>
+    <string name="txt_getstarted_activity_beauty">The Beauty</string>
+    <string name="txt_getstarted_activity_earth">of Earth</string>
+    <string name="signin">Sign In</string>
+    <string name="register">Create New Account</string>
 </resources>
